@@ -1,0 +1,1 @@
+TOKEN=#token is key from your bot on developer account on discord
